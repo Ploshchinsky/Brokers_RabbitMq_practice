@@ -1,0 +1,5 @@
+ploton\models\UserDto.class
+ploton\integrations\ClientUserDb.class
+ploton\models\NotifyDto.class
+ploton\models\PublicationDto.class
+ploton\models\NotifyDto$NotifyType.class
